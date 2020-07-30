@@ -1,0 +1,31 @@
+Serial No.,IAM_User_Name,User_ID,User ARN,User Creation Date,Attached Policies,Groups associated
+1,avi,AIDATBDAWXV3PJHOOHZPV,arn:aws:iam::208508730742:user/avi,27-07-2020 15:53,AdministratorAccess,"temp2
+temp1"
+2,avinash_singh,AIDATBDAWXV3FAHCKPYBV,arn:aws:iam::208508730742:user/avinash_singh,28-07-2020 15:56, None ,None
+3,avinash_singh1,AIDATBDAWXV3KKWOV24IP,arn:aws:iam::208508730742:user/avinash_singh1,28-07-2020 16:12, None ,None
+4,avinash_singh10,AIDATBDAWXV3PYC347NBI,arn:aws:iam::208508730742:user/avinash_singh10,28-07-2020 17:46,AdministratorAccess,None
+5,avinash_singh12,AIDATBDAWXV3EWAUZRE42,arn:aws:iam::208508730742:user/avinash_singh12,28-07-2020 16:25,AdministratorAccess,None
+6,avinash_singh17,AIDATBDAWXV3C2UY7KSSJ,arn:aws:iam::208508730742:user/avinash_singh17,27-07-2020 15:52,AdministratorAccess,None
+7,avinash_singh18,AIDATBDAWXV3ACFDMBHI5,arn:aws:iam::208508730742:user/avinash_singh18,28-07-2020 17:38, None ,None
+8,avinash_singh2,AIDATBDAWXV3O6IQONJWR,arn:aws:iam::208508730742:user/avinash_singh2,28-07-2020 16:15, None ,None
+9,avinash_singh3,AIDATBDAWXV3JNCOKBADX,arn:aws:iam::208508730742:user/avinash_singh3,28-07-2020 16:16, None ,None
+10,avinash_singh4,AIDATBDAWXV3EQPCFK3SI,arn:aws:iam::208508730742:user/avinash_singh4,28-07-2020 16:19, None ,None
+11,avinash_singh40,AIDATBDAWXV3LIMII6SQN,arn:aws:iam::208508730742:user/avinash_singh40,28-07-2020 17:47,AdministratorAccess,None
+12,avinash_singh44,AIDATBDAWXV3H3SBMDL66,arn:aws:iam::208508730742:user/avinash_singh44,28-07-2020 17:49,AdministratorAccess,None
+13,avinash_singh45,AIDATBDAWXV3NUIYKFUF4,arn:aws:iam::208508730742:user/avinash_singh45,28-07-2020 17:50,AdministratorAccess,None
+14,avinash_singh46,AIDATBDAWXV3IKMLHTZ4Y,arn:aws:iam::208508730742:user/avinash_singh46,28-07-2020 17:51,AdministratorAccess,None
+15,avinash_singh48,AIDATBDAWXV3PYRP74DGI,arn:aws:iam::208508730742:user/avinash_singh48,28-07-2020 17:40,AdministratorAccess,None
+16,avinash_singh5,AIDATBDAWXV3CAPABBAEM,arn:aws:iam::208508730742:user/avinash_singh5,28-07-2020 16:19, None ,None
+17,avinash_singh67,AIDATBDAWXV3EUPI5FGYR,arn:aws:iam::208508730742:user/avinash_singh67,28-07-2020 17:45,AdministratorAccess,None
+18,avinash_singh68,AIDATBDAWXV3EBCDRBNK2,arn:aws:iam::208508730742:user/avinash_singh68,28-07-2020 17:42,AdministratorAccess,None
+19,avinash_singh69,AIDATBDAWXV3CNOP5KMZN,arn:aws:iam::208508730742:user/avinash_singh69,28-07-2020 17:44,AdministratorAccess,None
+20,avinash_singh7,AIDATBDAWXV3MUL2CMMEC,arn:aws:iam::208508730742:user/avinash_singh7,28-07-2020 16:23,AdministratorAccess,None
+21,avinash_singh76,AIDATBDAWXV3APSIWNXEV,arn:aws:iam::208508730742:user/avinash_singh76,28-07-2020 17:52,AdministratorAccess,None
+22,avinash_singh78,AIDATBDAWXV3HN5EQKVKN,arn:aws:iam::208508730742:user/avinash_singh78,28-07-2020 17:54,AdministratorAccess,None
+23,avinash_singh8,AIDATBDAWXV3CKIS565TA,arn:aws:iam::208508730742:user/avinash_singh8,28-07-2020 16:24,AdministratorAccess,None
+24,lop,AIDATBDAWXV3KTVMHRT7Y,arn:aws:iam::208508730742:user/lop,27-07-2020 15:54,AdministratorAccess,None
+25,onida,AIDATBDAWXV3GR6OGVEUC,arn:aws:iam::208508730742:user/onida,29-07-2020 07:57,"AmazonRoute53FullAccess
+AmazonS3FullAccess
+AmazonEC2FullAccess",temp1
+26,terraform,AIDATBDAWXV3IKGEUS6S6,arn:aws:iam::208508730742:user/terraform,23-07-2020 10:40,AdministratorAccess,None
+27,tyv,AIDATBDAWXV3EDZY2P5ZE,arn:aws:iam::208508730742:user/tyv,27-07-2020 15:54,AdministratorAccess,None

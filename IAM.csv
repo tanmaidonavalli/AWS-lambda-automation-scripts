@@ -1,0 +1,4 @@
+Serial No.,IAM_User_Name,Programatic_Access,Console_Access,Policy_ARN
+1,XYZnkujohu,Yes,No,arn:aws:iam::aws:policy/AdministratorAccess
+2,pqrkklek,Yes,Yes,arn:aws:iam::aws:policy/AdministratorAccess
+3,abchkw,No,Yes,None
